@@ -18,6 +18,8 @@
 
 <img src="https://github.com/bot-beep-boop/bot-beep-boop/raw/output/snake.svg" alt="Snake animation" />
 
+
+
 ###
 
 <div align="left">
