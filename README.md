@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bot-beep-boop/bot-beep-boop/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/bot-beep-boop/bot-beep-boop/raw/output/snake.svg" alt="Snake animation" />
 
 ###
 
