@@ -17,14 +17,14 @@
 ###
 
 <br clear="both">
-
-<img src="https://github.com/bot-beep-boop/bot-beep-boop/raw/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://github.com/bot-beep-boop/bot-beep-boop/raw/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="40" width="52" alt="haxe logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" width="52" alt="godot logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
